@@ -1,0 +1,10 @@
+H1 Visibilidad: spinner al cargar; overlay importar/borrar; toasts y botones bloqueados.
+H2 Mundo real: titulo descriptivo; lenguaje servidor/importar/anadir; globo web y nombre real al borrar.
+H3 Control: cancelar borrado/importacion/modal; deshacer borrado; quitar/limpiar filtros.
+H4 Consistencia: botones icono+texto; chips uniformes; formularios y toasts uniformes.
+H5 Prevencion: required; rango 0-3; confirmaciones y bloqueo simultaneo.
+H6 Reconocimiento: chips activos; contador X de Y; cabeceras ordenables/indicacion visible.
+H7 Eficiencia: busqueda libre; filtro territorio; localidades multiples/ordenacion.
+H8 Minimalismo: ayuda solo sin datos; chips/limpiar solo con filtros; tabla/mensaje segun estado.
+H9 Errores: permisos Firebase; red/carga/borrado; validaciones y error al deshacer.
+H10 Ayuda: bienvenida; tooltips; labels/placeholders/rangos y mensajes inline.
